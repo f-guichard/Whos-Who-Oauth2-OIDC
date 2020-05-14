@@ -1,0 +1,6 @@
+*credentials*
+*secrets*
+.python-version
+.certs
+*sqlite_db
+*__pycache__*
